@@ -1,6 +1,6 @@
 # Work Time Calculator Web Application
 
-Application preview: [https://vishesh-learn.github.io/work-time-calc-web/]
+Application preview: [https://vishesh-learn.github.io/work-time-tracker]
 
 This is a simple work time calculator web application that helps you keep track of your work time.
 
